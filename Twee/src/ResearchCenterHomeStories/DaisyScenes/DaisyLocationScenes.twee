@@ -1,0 +1,57 @@
+::Research Center - Home - Stories - Home Activities - Snoop in Daisy's room
+<<include getDaisysRoomSnoopingPassage()>>
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Snoop in Daisy's room - Panties and Bikinis Only
+You find Daisy's room unlocked. You take some time to snoop around.
+
+You find that her computer requires a password.
+
+You find a drawer where she stores her panties and her bikini. She has mostly a collection of comfortable and innocent looking white cotton panties.
+
+::Research Center - Home - Stories - Home Activities - Find Daisy
+[[Find Daisy reading on her phone in her bedroom.|Research Center - Home - Stories - Home Activities - Find Daisy - Reading on her phone in her bedroom]]
+[[Find Daisy reading a book in the living room.|Research Center - Home - Stories - Home Activities - Find Daisy - Reading a book in the living room]]
+[[Find Daisy enjoying the pool.|Research Center - Home - Stories - Home Activities - Find Daisy - Enjoying the pool]]
+[[Find Daisy sleeping in her bedroom.|Research Center - Home - Stories - Home Activities - Find Daisy - Sleeping in her bedroom]]
+[[Find Daisy using the bathroom in the morning.|Research Center - Home - Stories - Home Activities - Find Daisy - Using the bathroom in the morning]]
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Daisy - Reading on her phone in her bedroom
+You find Daisy in her room reading on her phone.
+
+<<set _nameForProtagonist = $characters.get("Daisy").relationships[protagonist].targetModel.names.standard>>\
+She looks up with a smile and asks: "Hey, _nameForProtagonist! What's up?"
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Daisy - Reading a book in the living room
+You find Daisy in the living room, reading a book.
+
+<<set _nameForProtagonist = $characters.get("Daisy").relationships[protagonist].targetModel.names.standard>>\
+She notices you and smiles. "Oh, hi, _nameForProtagonist!"
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Daisy - Enjoying the pool
+You find Daisy using the pool. She is splashing around happily.
+
+When she notices you, she smiles and moves towards the edge of the pool, closer to you.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Daisy - Sleeping in her bedroom
+You find Daisy alseep in her bed. She seems to be sound asleep.
+
+She looks peaceful and relaxed under the covers.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Daisy - Using the bathroom in the morning
+You realize that Daisy is in the bathroom. You hear the shower running, but the bathroom's door is locked.
+
+With no way of interacting with Daisy, you move away.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+

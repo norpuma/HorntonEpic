@@ -1,0 +1,55 @@
+::StoryTitle
+The Hornton Epic
+
+::StoryData
+{
+    "ifid": "008CD6D6-9E50-49B5-8C06-70801F5C045B"
+}
+
+::StorySettings
+
+::StoryInit [Variables]
+<<run initializeCalendar()>>
+<!-- 
+<<run initializeCharacters()>>
+<<run initializeLocations()>>
+<<run furtherInitializeCharacters()>>
+<<run furtherInitializeLocations()>>
+<<include "Widget Initialization">>
+-->
+
+::Start
+<<include "Presentation">>
+
+<!-- TODO: Remove if only way to start the game is, indeed, with setup.
+[[Setup]]
+[[Skip to Short Introduction (use deafaults)|Introduction]]
+[[Skip Introduction (use defaults)|Game Start]]
+-->
+
+::Widget Initialization
+<<widget "talk">>
+\<<= BaseCharacter__talkFormatter($args[0], $args[1])>>\
+<</widget>>\
+
+::Presentation
+This game contains sexual acts and images.
+
+<<link "Setup" "Setup">><</link>>
+
+::Introduction Using Defaults
+<<include "Introduction">>
+
+<!-- TODO: Remove if only way to start the game is, indeed, with setup.
+<<link "Start the game." "Game Start">><</link>>
+-->
+
+::Introduction
+
+::Setup [background]
+<<include "Introduction">>
+<<include "Protagonist - Setup">>
+
+::Game Start
+<<set $gameStarted = true>>\
+<<goto "First Day Wakeup">>

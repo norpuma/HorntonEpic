@@ -1,0 +1,6 @@
+::Activities - Hybernate
+<<if $actor == $protagonist>>\
+    You hybernate for a while.
+<<else>>\
+    $actor.names.standard hybernates for a while.
+<</if>>\

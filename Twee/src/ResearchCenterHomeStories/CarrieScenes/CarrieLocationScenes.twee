@@ -1,0 +1,49 @@
+::Research Center - Home - Stories - Home Activities - Snoop in Carrie's room
+<<include getCarriesRoomSnoopingPassage()>>
+
+::Research Center - Home - Stories - Home Activities - Snoop in Carrie's room - Locked
+You find Carrie's room locked. She seems to not want people snooping around, just as you intended to do.
+
+::Research Center - Home - Stories - Home Activities - Find Carrie
+[[Find Carrie doing her nails in her bedroom.|Research Center - Home - Stories - Home Activities - Find Carrie - Doing her nails in her bedroom]]
+[[Find Carrie fiddling on her phone in the living room.|Research Center - Home - Stories - Home Activities - Find Carrie - Fiddling on her phone in the living room]]
+[[Find Carrie tanning by the pool.|Research Center - Home - Stories - Home Activities - Find Carrie - Tanning by the pool]]
+[[Find Carrie sleeping in her bedroom.|Research Center - Home - Stories - Home Activities - Find Carrie -  Sleeping in her bedroom]]
+[[Find Carrie using the bathroom in the evening.|Research Center - Home - Stories - Home Activities - Find Carrie - Using the bathroom in the evening]]
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Carrie - Doing her nails in her bedroom
+You find Carrie doing her nails while sitting on her bed.
+
+"What do you want wanker?" She asks, in a challenging tone.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Carrie - Fiddling on her phone in the living room
+You find Carrie fiddling with her phone in the living room.
+
+She tries to ignore, while sometimes shooting quick, dirty looks in your direction.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Tanning by the pool
+You find Carrie tanning by the pool.
+
+She has her eyes closed, but you can see she is not asleep.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Carrie -  Sleeping in her bedroom
+You find Carrie asleep in her bed. She seems to be sound asleep.
+
+Looking at her relaxed and peaceful, you can properly appreciate how beatiful she is.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Carrie - Using the bathroom in the evening
+You find Carrie in the bathroom. From the sound of running water, you suppose she is taking a shower.
+
+The door is closed.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+

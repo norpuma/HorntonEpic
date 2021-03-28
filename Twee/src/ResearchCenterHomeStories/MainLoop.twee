@@ -1,0 +1,53 @@
+::Research Center - Home - Stories - Scripts [script]
+window.HOME_LOCATION = "HOME_LOCATION"
+State.variables.location = window.HOME_LOCATION
+State.variables.characters = new Map()
+
+var daisy = new FemaleMainCharacter("Daisy")
+State.variables.characters.set(daisy.names.standard, daisy)
+daisy.personality.decorum = DecorumLevels.UNCONCERNED
+
+var carrie = new FemaleMainCharacter("Carrie")
+State.variables.characters.set(carrie.names.standard, carrie)
+carrie.personality.decorum = DecorumLevels.INDECENT
+
+var jennifer = new FemaleMainCharacter("Jennifer")
+State.variables.characters.set(jennifer.names.standard, jennifer)
+jennifer.personality.decorum = DecorumLevels.UNINTERESTED
+
+window.getDaisysRoomSnoopingPassage = function(){
+    // TODO: Switch on some options.
+    return "Research Center - Home - Stories - Home Activities - Snoop in Daisy's room - Panties and Bikinis Only"
+}
+
+window.getCarriesRoomSnoopingPassage = function(){
+    // TODO: Switch on some options.
+    return "Research Center - Home - Stories - Home Activities - Snoop in Carrie's room - Locked"
+}
+
+window.getJennifersRoomSnoopingPassage = function(){
+    // TODO: Switch on some options.
+    return "Research Center - Home - Stories - Home Activities - Snoop in Jennifer's room - Locked"
+}
+
+::Research Center - Home - Stories - Home Activities
+[[Snoop in Daisy's room.|Research Center - Home - Stories - Home Activities - Snoop in Daisy's room]]
+[[Snoop in Carrie's room.|Research Center - Home - Stories - Home Activities - Snoop in Carrie's room]]
+[[Snoop in Jennifer's room.|Research Center - Home - Stories - Home Activities - Snoop in Jennifer's room]]
+[[Find Daisy.|Research Center - Home - Stories - Home Activities - Find Daisy]]
+[[Find Carrie.|Research Center - Home - Stories - Home Activities - Find Carrie]]
+[[Find Jennifer.|Research Center - Home - Stories - Home Activities - Find Jennifer]]
+[[Use your computer.|Research Center - Home - Stories - Home Activities - Use your computer]]
+
+::Research Center - Home - Stories - Home Activities - Use your computer
+You sit at your computer and decide on your next activity.
+
+[[Watch some porn.|Research Center - Home - Stories - Home Activities - Use your computer - Watch Porn]]
+
+::Research Center - Home - Stories - Home Activities - Use your computer - Watch Porn
+You look around and find a few interesting sites to keep you entertained.
+
+<!-- TODO: Add code for a chance of the protagonist being interrupted by someone at the house. -->
+You enjoying a little porn and masturbate to a satisfying orgasm.
+
+[[Watch some porn.|Research Center - Home - Stories - Home Activities - Use your computer - Watch Porn]]

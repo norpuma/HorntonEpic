@@ -1,0 +1,72 @@
+::Character Interaction Activities - Scripts [script]
+function generateTemporaryIdentifierForCharacter(character){
+    // TODO: Implement this.
+    // This can easily be gender #number met at location on date. e.g.: "Female 3 met at bar on day 126".
+    //      If gender is not known use "person" instead. If location is not known, use "unknown location".
+    // This will be used to check notes about a character before their name is known to the protagonist.
+}
+
+function createEntryForTargetCharacterInNotes(character){}
+
+function findCharactersByTrait(listOfDesiredTraits){
+    // TODO: Implement this.
+    // This should return known characters too in a separate section and clearly identified as known/already met.
+    // TODO: Decide how to handle characters that meet the requirements, but that the protagonist does not know that they meet the requirement (such as a school teacher whose job the protagonist does not know).
+}
+
+
+// TODO: This should also indicate if the location is known, if it is accessible and if the activity is "busy" or "idle".
+function getCharacterLocationAndActivity(character){}
+
+function getCharacterLocation(character){}
+
+function getCharacterActivity(character){}
+
+::Character Finding Related Activities
+<!-- Also define:
+- List identified characters.
+-- Check notes for an identified character.
+-->\
+\
+- Research character's by Trait.
+-- Ethereal search
+-- Database search
+-- Social search (contacts/social information gathering).
+- Look for an identified or KNOWN character (try to find a target's location).
+- Hunt
+
+::Character Interaction Activities
+- List characters (TARGETS) at location.
+- List character location of target's whose location is known (tracker; known schedule; remote viewing; etc.).
+
+- Remote interactions with target (call a target; message a target; remote visit a character using a camera or xenotech).
+- Examine a target.
+- Observe a target.
+- Approach a target.
+- Start a conversation with a target.
+- Make out with a target.
+- Touch a target.
+- Make a request of a target.
+-- Command a target.
+- Start an evaluation of a target.
+- Punish a target.
+- Reward a target.
+- Change target's rules.
+
+- Create Connection
+-- Use Xenotech to create connections
+- Strengthen Connection
+- Additional Connections
+
+- Dream Inspections
+- Memory Inspections
+- Dream Sends
+- Event Inspections
+- Thought Sends
+
+- Mind Programming
+-- Use Xenotech to change a mind
+- Body Changes
+-- Use Xenotech to change a body
+- Possessing
+

@@ -1,0 +1,75 @@
+::Main Loop Scripts [script]
+class Schedule extends SugarcubeSerializableObject {
+    constructor(){
+        super()
+    }
+    followScheduleForTime(days, hours){}
+    followScheduleUntilTime(finalDay, finalHour){}
+    calculateRewardsForSpecificTimeInterval(startDay, endDay, startHour, endHour){}
+    _updateSystemAfterScheduleFollowing(startDay, endDay, startHour, endHour){
+        // Update calendar.
+        // Update protagonist statistics.
+    }
+}
+
+class ProtagonistSchedule extends Schedule {
+    constructor(){
+        super()
+    }
+    followScheduleForTime(days, hours){
+        return "Game Play Activities - Main Loop"
+    }
+    followScheduleUntilTime(finalDay, finalHour){
+        calendar.progressTimeTo(finalDay, finalHour)
+        return "Game Play Activities - Main Loop"
+    }
+}
+
+State.variables.protagonistScheduleControl = new ProtagonistSchedule()
+
+::Game Play Activities - Main Loop
+[[- Follow schedule.|Game Play Activities - Main Loop - Follow Schedule Options]]
+<!-- - Review investments (schedule/time and expenses). -->
+- Change investments (schedule/time and expenses).
+- Break away from schedule.
+
+- Check own profile.
+- Check own status.
+- List identified locations.
+-- Check notes for a location.
+- List identified characters. <!-- SEE: _CharacterInteractionActivities.twee for these -->
+-- Check notes for an identified character. <!-- SEE: _CharacterInteractionActivities.twee for these -->
+
+::Game Play Activities - Main Loop - Go to Computed Passage
+<<goto $computedPassage>>
+
+::Game Play Activities - Main Loop - Follow Schedule Options
+<!-- - Follow schedule for a time. -->
+<<link "- Follow schedule for the remainder of the day." "Game Play Activities - Main Loop - Go to Computed Passage">><<set $computedPassage = protagonistScheduleControl.followScheduleUntilTime(calendar.gameDay+1, protagonist.startDayTime)>><</link>>
+<!-- - Follow schedule for the remainder of the week. -->
+<!-- - Follow schedule until next event. -->
+
+::Break Away from Schedule Options
+[[- Solo Activities|Solo Activities]]
+- Location Related Activities
+- Character Finding Related Activities <!-- SEE: _CharacterInteractionActivities.twee for these -->
+- Character Interaction Activities <!-- SEE: _CharacterInteractionActivities.twee for these -->
+
+::Solo Activities
+- Self Improvement. (e.g. learning a new skill)
+- New Activity.
+- Gather resources.
+- Make an online purchase.
+- Create Dream Form
+- Create Flesh Form
+- Create a drug
+- Manage a domain
+
+[[Continue.|Main Loop]]
+
+::Location Related Activities
+- Search for a location.
+- Go to location.
+- Examine location.
+- Remote visit a location. (use cameras, xenotech or other method)
+- List characters (TARGETS) at location.

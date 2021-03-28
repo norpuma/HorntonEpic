@@ -1,0 +1,75 @@
+::Friendly Interaction - Scripts [script]
+const MAX_TOPICS_PER_CONVERSATION = 10
+window.startFriendlyInteraction = function(perspectiveOwner, perspectiveTarget){
+    let characters = new Array()
+    characters.push(perspectiveOwner)
+    characters.push(perspectiveTarget)
+    return new FriendlyInteraction(characters)
+}
+
+window.getDescriptionPassageForTopic = function(character, topic){
+    let passage = character.personality.preferences.conversationProfile.topics.get(topic)
+    if (passage === undefined){
+        passage = "Friendly Interaction - Generic Topic Passage"
+    }
+    return passage
+}
+
+window.getEffectPassageForTopic = function(character, topic){
+    let conversationProfile = target.personality.preferences.conversationProfile.topics.get(topic)
+}
+
+Macro.add('presentSmallTalkTopicsLink', {
+	tags     : null,
+	handler  : function () {
+        let protagonist = State.variables.protagonist
+        let target = this.payload[0].args[0]
+        let relationship = protagonist.relationships[target]
+        let conversationTopics = relationship.friendlyContext.conversationTopics
+        let output = ""
+        for(let topic of conversationTopics){
+            // TODO: Disable topics that were already broached. See $interaction.checkBroachedTopics
+            // TODO: Add tip to topics the Protagonist already knows to be Prefered or Disliked.
+            // TODO: Add tip to topics that are new.
+            output +=  "<<link \"<li>" + topic + "\""
+            let passage = target.personality.preferences.conversationProfile.topics.get(topic)
+            if (passage === undefined){
+                passage = "Friendly Interaction - Generic Topic Passage"
+            }
+            output += " \"" + passage + "\">><<set $interaction.addBroachedTopic(\"" + topic + "\")>><</link>>\n"
+        }
+		$(this.output).wiki(output);
+	}
+});
+
+::Friendly Interaction - Start
+You approach $target.names.standard and start a conversation.
+
+<<link "Influence $target.pronouns.possessive Mood." "Friendly Interaction - Influence">><</link>>
+<<link "Argue a point." "Friendly Interaction - Arguing">><</link>>
+<<link "Find out more about $target.pronouns.object." "Friendly Interaction - Enquirying">><</link>>
+<<link "Become closer to $target.names.standard." "Friendly Interaction - Intimacy">><</link>>
+
+::Friendly Interaction - Influence
+<<set $interaction = startFriendlyInteraction($protagonist, $target)>>
+You make a little small talk and chose a topic for a bit of the conversation.
+
+<<presentSmallTalkTopicsLink $target>><</presentSmallTalkTopicsLink>>
+
+::Friendly Interaction - Arguing
+
+::Friendly Interaction - Enquirying
+
+::Friendly Interaction - Intimacy
+
+::Friendly Interaction - Influence Result
+<<set _topic = $interaction.getLatestBroachedTopic()>>\
+<<include getDescriptionPassageForTopic($target, _topic)>>
+
+<<include getEffectPassageForTopic($target, _topic)>>
+
+::Friendly Interaction - Generic Topic Passage
+You make a little small talk on the subject.
+
+<<set _weight = 0>>\
+<<if $target.personality.preferences.conversationProfile.weightedPreferedTopics.find()

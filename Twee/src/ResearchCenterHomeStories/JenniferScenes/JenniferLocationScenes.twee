@@ -1,0 +1,20 @@
+::Research Center - Home - Stories - Home Activities - Snoop in Jennifer's room
+<<include getJennifersRoomSnoopingPassage()>>
+
+::Research Center - Home - Stories - Home Activities - Snoop in Jennifer's room - Locked
+You find Jennifer's room locked. She is a very pivate person and it makes sense that she doesn't want anone snooping around in it.
+
+::Research Center - Home - Stories - Home Activities - Find Jennifer
+[[Find Jennifer on her computer in her bedroom.|Research Center - Home - Stories - Home Activities - Find Jennifer - On her computer in her bedroom]]
+[[Find Jennifer watching a movie in the living room.]]
+[[Find Jennifer doing some yoga by the pool.]]
+[[Return|Research Center - Home - Stories - Home Activities]]
+
+::Research Center - Home - Stories - Home Activities - Find Jennifer - On her computer in her bedroom
+You find Jennifer using her computer in her bedroom.
+
+<<set _nameForProtagonist = $characters.get("Daisy").relationships[protagonist].targetModel.names.standard>>\
+"What is it, _nameForProtagonist?" She asks, sounding rather busy.
+
+[[Return|Research Center - Home - Stories - Home Activities]]
+

@@ -1,0 +1,77 @@
+::Protagonist - Setup Scripts [script]
+window.INCARNATE = "INCARNATE"
+window.ETHEREAL = "ETHEREAL"
+
+State.variables.protagonistStartingForm = window.INCARNATE
+State.variables.protagonistGender = "MALE"
+State.variables.protagonistStandardName = "Eddie"
+State.variables.protagonistFirstName = "Edward"
+State.variables.protagonistLastName = "Foster"
+
+window.createProtagonist = function(){}
+
+State.variables.firstConnectionGender = "FEMALE"
+State.variables.firstConnectionAgeGroup = "TEENAGER"
+
+window.createFirstConnection = function(){}
+
+::Protagonist - Setup
+How do you want to go into the world?
+
+<<link "Incarnate" "Protagonist - Setup - Incarnate">><</link>>
+<<link "Ethereal" "Protagonist - Setup - Ethereal">><</link>>
+
+::Protagonist - Setup - Incarnate
+<<set $protagonistStartingForm = INCARNATE>>\
+You are about to get into [["Hornton"|"Notes - Hornton"]] and you have to fill out a few forms. The forms are unusally detailed, but you know that you have to be extremely truthful as you answer.
+
+<!-- TODO: Write support for female incarnate protagonist. -->\
+What is your gender?
+- Male
+<<set $protagonistGender = "MALE">>\
+
+<!-- TODO: Write support for chosing names. -->\
+What is the name people usually use to address you?
+- Eddie
+<<set $protagonistStandardName = "Eddie">>\
+
+What is your first name?
+- Edward
+<<set $protagonistFirstName = "Edward">>\
+
+What is your last name?
+- Foster
+<<set $protagonistLastName = "Foster">>\
+
+<!-- TODO: Write support for chosing age. -->\
+What is your age?
+- 18
+<<set $protagonistAge = 18>>\
+\
+<<run createProtagonist()>>\
+
+::Protagonist - Setup - Ethereal
+<<set $protagonistStartingForm = ETHEREAL>>\
+As you float in the ether you sense the presence of a nearby world. As you feel yourself establishing a connection to that world, you have a chance to guide the connection a little.
+
+<!-- TODO: Write support for protagonist's first connection be to a place. -->\
+You will connect first to some human in that world, what kind of human should you connect to first, however?
+
+<!-- TODO: Write support for protagonist's first connection be to a male. -->\
+Should you connect to a female or a male?
+- Female
+<<set $firstConnectionGender = "FEMALE">>\
+
+What is the age group of the first human you connect to?
+- Teenager
+<!-- TODO: Write support for protagonist's first connection be to different age groups.
+- Young Adult
+- Adult
+- Mature Adult
+- Older
+-->\
+<<set $firstConnectionAgeGroup = "TEENAGER">>\
+
+\
+<<run createProtagonist()>>\
+<<run createFirstConnection()>>\
