@@ -520,4 +520,5 @@ class BaseCharacter extends SugarcubeSerializableObject {
     }
 }
 
-State.variables.characters = new Map()
+var characters = new Map()
+State.variables.characters = characters
