@@ -1,34 +1,34 @@
 ::Research Center - Home - Stories - Scripts [script]
-window.HOME_LOCATION = "HOME_LOCATION"
-State.variables.location = window.HOME_LOCATION
-State.variables.characters = new Map()
+// window.HOME_LOCATION = "HOME_LOCATION"
+// State.variables.location = window.HOME_LOCATION
+// State.variables.characters = new Map()
 
-var daisy = new FemaleMainCharacter("Daisy")
-State.variables.characters.set(daisy.names.standard, daisy)
-daisy.personality.decorum = DecorumLevels.UNCONCERNED
+// var daisy = new FemaleMainCharacter("Daisy")
+// State.variables.characters.set(daisy.names.standard, daisy)
+// daisy.personality.decorum = DecorumLevels.UNCONCERNED
 
-var carrie = new FemaleMainCharacter("Carrie")
-State.variables.characters.set(carrie.names.standard, carrie)
-carrie.personality.decorum = DecorumLevels.INDECENT
+// var carrie = new FemaleMainCharacter("Carrie")
+// State.variables.characters.set(carrie.names.standard, carrie)
+// carrie.personality.decorum = DecorumLevels.INDECENT
 
-var jennifer = new FemaleMainCharacter("Jennifer")
-State.variables.characters.set(jennifer.names.standard, jennifer)
-jennifer.personality.decorum = DecorumLevels.UNINTERESTED
+// var jennifer = new FemaleMainCharacter("Jennifer")
+// State.variables.characters.set(jennifer.names.standard, jennifer)
+// jennifer.personality.decorum = DecorumLevels.UNINTERESTED
 
-window.getDaisysRoomSnoopingPassage = function(){
-    // TODO: Switch on some options.
-    return "Research Center - Home - Stories - Home Activities - Snoop in Daisy's room - Panties and Bikinis Only"
-}
+// window.getDaisysRoomSnoopingPassage = function(){
+//     // TODO: Switch on some options.
+//     return "Research Center - Home - Stories - Home Activities - Snoop in Daisy's room - Panties and Bikinis Only"
+// }
 
-window.getCarriesRoomSnoopingPassage = function(){
-    // TODO: Switch on some options.
-    return "Research Center - Home - Stories - Home Activities - Snoop in Carrie's room - Locked"
-}
+// window.getCarriesRoomSnoopingPassage = function(){
+//     // TODO: Switch on some options.
+//     return "Research Center - Home - Stories - Home Activities - Snoop in Carrie's room - Locked"
+// }
 
-window.getJennifersRoomSnoopingPassage = function(){
-    // TODO: Switch on some options.
-    return "Research Center - Home - Stories - Home Activities - Snoop in Jennifer's room - Locked"
-}
+// window.getJennifersRoomSnoopingPassage = function(){
+//     // TODO: Switch on some options.
+//     return "Research Center - Home - Stories - Home Activities - Snoop in Jennifer's room - Locked"
+// }
 
 ::Research Center - Home - Stories - Home Activities
 [[Snoop in Daisy's room.|Research Center - Home - Stories - Home Activities - Snoop in Daisy's room]]

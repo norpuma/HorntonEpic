@@ -221,6 +221,18 @@ class PreferenceLevel {
     static HATE_LEVEL = -5
 }
 
+class CharacterTraitEvaluation extends SugarcubeSerializableObject {
+    constructor(characterTrait, mustExceed, valueLimit, weight, evaluationFunction){
+        super()
+        this.characterTrait = characterTrait // A Trait. This is often a CharacterBodyTrait, a CharacterAttitudeTrait or a RelationshipHistoryTrait.
+        this.mustExceed = mustExceed // This indicates if the trait must exceed a given score for the weight to be counted. If this is False, the weight is returned if the value is UNDER the limit.
+        this.valueLimit = valueLimit // This is the limit of the trait. This will often be a value from TraitIntensity SCORE values.
+        this.weight = weight // This is a value to be returned when the Trait is positively evaluated.
+        this.evaluationFunction = evaluationFunction // This is a function used to evaluate the trait.
+    }
+
+}
+
 class TraitCategory {
     static BODY = "BODY"
     static PERSONALITY = "PERSONALITY"

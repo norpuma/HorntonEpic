@@ -28,6 +28,7 @@ class ProtagonistSchedule extends Schedule {
 State.variables.protagonistScheduleControl = new ProtagonistSchedule()
 
 ::Game Play Activities - Main Loop
+<<run initializeCharacters()>>\
 [[- Follow schedule.|Game Play Activities - Main Loop - Follow Schedule Options]]
 <!-- - Review investments (schedule/time and expenses). -->
 - Change investments (schedule/time and expenses).

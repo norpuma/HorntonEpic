@@ -43,6 +43,6 @@ class TimeController extends SugarcubeSerializableObject {
 var timeController = new TimeController()
 State.variables.timeController = timeController
 
-function initializeCalendar(){
+window.initializeCalendar = function(){
     var calendar = timeController
 }

@@ -23,6 +23,8 @@
 - Ends up a Supervisor in alien Y's Core.
 - Ends up a priestess in a secret female cult in Hornton.
 - Last opponent to be defeated.
+## Alex, Alexandra, Kay: Salesperson at the magazine publisher. Trophy wife to Connor. Decent step-mother to Faith and Regina for the last 3 years.
+???
 ## Andrea Dyson: Devious Lesbian Young Woman. Graphics artist at the Magazine Publisher. Housemate to Kate.
 - Starts as a devious, but frustrated lesbian. She has some great friends that she would like to fuck, but doesn't dare come up to them, even though she does not hide her lesbianism.
 - Ends up one of the studs at alien Y's Core. She greatly enjoys being able to fuck some of the sources with a strapon and getting a lot of oral attention (cunnilingus) from the cows, drones and sometimes even a source or another. She does feel somewhat emotionally empty for the lack of a romantic girlfriend, but she usually is able to suppress that through sex. She does not get her intelligence reduced, but intense and continuous sex desire tends to cloud her mind a little. She feels like she is the second in command in the cult, after Andrea. She enjoys the feeling of having corrupted ??? and having stolen ??? from her boyfriend.
@@ -32,6 +34,7 @@
 ## Ann Corrigan: Motherly. Serious. Successful physician at the hospital, with ambition to become chief of medicine. Often absent from home. Mother to Evan and Pennie.
 - Starts too busy to think of sex. She has a vibrator in her bedroom (an expensive hitachi wand) for when she wants to get off, but she only uses it occasionally. She is hyper focused on her career and, sometimes, feels bad for not spending enough time with her children. She barely notices anything that happens at home. She believes Colin is an adversary in advancing her career and treats most men as adversaries as she is a feminist that felt she was kept down for too long.
 - She ends up a sex addict, masturbating and fucking all the time, although she only submits to big black cocks. She only practices medicine at the leisure of her black masters. She is sad her boy Evan can enjoy life properly, but she concedes that it is his proper place to be a submissive, chastised, cock caged servant. She blames her former husband for Evan. She develops a pregnancy fetish, where she hopes to get impregnated with a black baby to help foster the supreme race. She humiliates Evan not out of malice, but because it is the proper thing to do. She humiliates other drones out of a cruel malice, however.
+## Austin Kay: Infant child of Connor and Alex.
 ## Bettie, Elizabeth, Moss: Tennis instructor. Lesbian. Girlfriend to Courtney.
 - Starts as a closet lesbian with a steady girlfriend - Courtney - that she loves deeply. She is not against using her sexuality to get clients to pay for lessons and to pay extra. She is a manipulator, but not especially devious and certainly not malicious. She deeply loves her girlfriend and is in a state of satisfaction, even though she sometimes feels pressured to admit her sexuality. She is somewhat upset that her girlfriend is a callgirl and wants to get her out of that life, but she loves the lifestyle Courtney's money buys them and can be made to forget her morals with a nice piece of jewelry or a new dress.
 - She ends up a lowly cow in alien X's core, with a vague sadness of all that she has lost and feeling a mixture of happiness and sadness whenever she sees Courtney getting fucked. She loses her mind completely when she gets fucked by a stud, however, and loves getting Core members - whatever their gender - suckling at her nipples. She doesn't remember getting seduced and fucked by black cocks when she was still a trainer and doesn't remember going on a couple of jobs with Courtney when she saw the pictures of black cocks she had started obsessing over. She still watches BBC porn when givne the opportunity, although she has become too stupid (lowered intelligence) to operate any kind of electronics by herself.
@@ -41,6 +44,8 @@
 ## Carla Manning: Manipulative Femdom Seductress Woman. Radio personality working at the Radio station. Mother to Trisha.
 - Starts proud, arrogant and bitchy. Selfish and self-centered. A narcissist for her own voice and fame. Disappointed with her daughter - Trisha - and not paying enough attention to her. She tries to have a healthy sex life, but she is a workaholic and believes flirting and courting takes too much time. She does have sex on occasion, with younger men. She interviews Adriana and becomes really impressed with her ideas.
 - Ends up one of the main proponents of the cult, sending them a lot of her money, frequenting meetings and espousing its ideas on the radio. She bullies the radio leadership in letting her keep doing it. She locks away her daughter's wimp suitor - Peter - as he is inadequate. She ends up losing her daughter, but she tries to tell herself it wasn't too much of a loss as she was really weak. She is as aggressive with wimpy females as she is with males. She enjoys being serviced by wimps as she believes she is of a superior breed. She has a spiteful and uncaring streak, not as much of a cruel one. She is more concerned with her needs than with punishing others.
+## Charlotte Dubois: Older sister of the Dubois. Lazy. Entitled. Ex-wife to Connor. Mother to Faith and Regina.
+???
 ## Cindy Griffin: Cheerleader, vain, angry (for having a step-mother). Second year student at the Finishing School. Daughter to Andrew and step-daughter to Vanessa.
 - Starts proud, a little bratty, entitled, conceited, arrogant. She is lesbian-curious, but never tried anything. She is conflicted between wanting to anger her father and fearing to disappoint him. She is also very proud of her position at school. She is also proud of her breasts and enjoys teasing others.
 - She ends up a stupid cow (reduced intelligence) at alien W's Core. She is lured by Josh, feeling helpless to resist being seduced by him, even though she remembers dismissing him as a loser in the past. She enjoys being given to girls, by Josh and retains a crush on him. She feels really embarrassed when she moos in pleasure and feels very humiliated being milked, although she surrenders to it willingly, especially when the pressure on her tits is too strong. She still realizes her humiliating position from time to time, but has become a humiliation slut and gets aroused by humiliation at the same time as she is embarrassed. She finds anal especially filthy and that makes her redden in shame and moo with pleasure every time. She sometimes fantasizes being impregnated by Josh, dreaming that it would make him love her, but when he uses her he only ever uses her asshole, not even paying attention to her enormous tits.
@@ -50,18 +55,29 @@
 ## Clint Garrick: Photographer at the magazine publisher.
 - Starts confident, sexual and manipulative. He seduces women at the office and at bars and quickly dumps them after having sex or, at most, if he finds them very submissive, after getting anal sex (which often requires a couple of dates).
 - He ends up a chastity caged drone, with great cunnilingus and analingus skills, willing to worship women in any ways and focused in making them happy, even though he laments remembering how good it felt to be happy himself. He is not the worst of the males at the core as he still gets let out of his cage and allowed to fuck from time to time as a reward for some woman who finds him attractive.
+## Codi Blake: Nanny's boyfriend, buff and nice.
 ## Colin Pratt: Doctor at the teaching hospital.
 - Starts sexually frustrated, having gone through a messy divorces, embarrassed to masturbate, but sometimes doing it sadly to porn and rarely paying for an expensive callgirl - Courtney.
 - Ends up a devoted worshiper, thankful for his regular climaxes and feeling freed from his concerns and graced for being able to have sex with a powerful, strong and beautiful woman like Jane. He still feels guilty for having sex with his son's girlfriend, but feels happy that he was able to get his sone an appropriate consolation prize (which is how he ends up entrusting his full fortune to the Core).
+## Connor Kay: Good father. Cheating husband. Very serious about job. Sent to a job. Stopped communicating for a little over an year. Considered missing. Ex-husband to Charlotte. Husband to Alex and father to Faith, Regina and Austin.
+???
 ## Courtney Jameson: Callgirl. Expensive. Entitled. Lesbian. Girlfriend to Bettie.
 - Starts as a sexually well-resolved, ambitious, proud, vain young woman. She has a sharp mind and has specific goals she wants to accomplish before her looks fade away. She knows how to manipulate her clients, but she loses a lot of her common sense in the presence of her girlfriend - Bettie - spending too much in restaurants, spa days and, especially, jewelry, bags, shoes and dresses. She is a convict lesbian, even though she does not feel too much revulsion at having sex with men. She is good at acting, but feels really no pleasure in the act with them.
 - Ends up a BBC worshiper in alien X's Core. She is made addicted to BBC, finding them genuinely majestic and feeling compelled to have them in her mouth. She has a few black, anatomically correct dildos that she started using with her girlfriend - Bettie - and still keeps with herlself at the Core. She was dismissive at Leon's claims that he could make her addicted and beg for it, initially, but became his personal slut before letting him pimp her, bringing in her girlfriend to do jobs and finally selling her soul to the Core.
+## Daniel West: Step-Nephew to Alex. Black. Alpha cousin, jerk and fit.
+???
 ## Denise Claremont: Second year student at the Finishing School. Cute. Black. Smart. Polite, but a little teasing and a little cruel to inferiors. Conscious of social positions at school and of her privileges as a wealthy heiress. Daughter to Gus, sister to Nate and niece to Leon.
 - Starts with a mixture of romantic and power fantasies. She tries to act well resolved sexually, but is actually very inexperienced and will still blush at a lot of situations. She is confident and driven and decides that she will be Jason's girlfriend, sicne he recently broke up and she feels the appropriate period of mourning has been respected. Her father is protective of her, without realizing what a fierce, determined young woman he has under his roof.
 - Ends up frustrated by sex with a boy, disappointed at her father and brother's behavior regarding sexuality, having had secret sex with her uncle after he became irresistible (Lure pheromones) and addicted to her god-beast's bestial cock. She serves side-by-side with the other worshipers, but considers them more like sisters (and not too bright sisters at that) rather than lovers, like some of them do. She does not see herself as part of a harem, but in a competition to become the first-wife/high priestess of her god. She gleefully breaks and trains drones and pets in the Core (taking special pleasure with Kelly) and waits for her god-beast to decide to create an overseer position.
+## Deon West: Step-uncle to Alex. Black. Dominant uncle, jerk and rich.
+???
 ## Diana Bast: Cute. Waitress. Street whore.
 - Starts having to work as a waitress and taking to the streets as a whore after a bad breakup. She is smart and practical, resenting her ex-boyfriend - Adam - for the breakup, submitting to a few of her boss' - Joe's - advances to progress in her career (getting the working hours she wants and a big share of the tips). She recently decided not to feel bad about using her whiles to get ahead. She has modest attributes, but is smart, funny and has a lot of charm when she can refrain from being acidic, bitchy and vengeful. She feels attracted to her ex-ex-boyfriend - Tyron - but believes he is bad news for her (as he was part of the reason she broke up with Adam). She plies her trade on the town's exit and in the trailer park to where she recently moved. She is trying to move into an apartment (Bluepoint???) and is planning to fuck the landlord to avoid paying rent.
 - Ends up one of Sean's main sluts. She is pimped by the stud, even though she was seduced by Josh. She was quickly handed over to a stud. She feels embarrassed by how good Sean makes it feel when he fucks her in the ass and keeps frustrated for not getting it in her pussy. She feels embarrassed by how good it feels to get Lily's attentions on her pussy, even though she is trying to tell herself that there is no problem in being a lesbian. She would prefer to be only used by Brad, as he is a nice and good looking guy. She masturbates to her god constantly, even though he rarely visits her and, just like Sean, prefers to use her ass to her pussy.
+## Douglas Harper: Assistant to Connor.
+???
+## Edgar Dubois: Dubois patriarch. Living abroad.
+???
 ## Ella Jost: Motherly, warm, affectionate. Writer at the magazine publisher. Mother to Miles.
 - Starts trying to keep her sexuality under control, at some effort, sometimes fantasizing about either one of her son's teachers - Gus - or one of her son's "friends" (just schoolmates, but she thinks of them as friends) - Evan - when she eventually masturbates. She is kind and loving and very concerned about her boy - Miles.
 - Ends up a BBC slut to the school's principal, trying to be caring for her son, but always choosing BBC over his welfare - much like Bastard Made Mom a Sex Slave, from Fugue. She tries to be caring when she is not suffering urges and she respects her master's orders to keep her son caged.
@@ -70,6 +86,8 @@
 ## Evan Corrigan: Second year student at the Finishing School. Athlete. Nice, vain, attracted to female teacher Mara Norris. Brother to Pennie.
 - Starts desirable, going on dates and making out during parties, but not really interested in the girls he gets. Strong attracted to his teacher - Mara - but not daring to make any attempt to approach her. Internally not very confident, feeling like he doesn't deserve the attention he gets. Takes care of his appearance and, sometimes, acts like a bully, mostly dismissing inferiors and humiliating them, rarely threatening.
 - Ends up tested and humiliated by his teacher - Mara - and made to recognize that BBCs are always superior. He services Mara and other girls around the Core, preparing them to BBCs as he finds that it is his real place.
+## Faith Kay-Dubois: Youngest daughter. Girly, childish, party-girl, joyful, playful. Step-daughter to Alex. Daughter to Charlotte and Connor and sister to Regina.
+???
 ## Forest Bronson: Writer at the magazine publisher. Father to Melissa.
 - Starts resigned to a sexless life, at times masturbating to porn and dreaming of, but never daring, hiring a callgirl. He watches mostly vanilla porn, sometimes risking a little lesbian porn. Disgusted by BDSM and not understanding BBC porn. Very caring for his daughter.
 - Ends up worshiping Adriana after trying to date her and resigned that he is meant to serve. Sad that his daughter is fated to a life like his, but unable to do anything about it. Having trouble resisting opportunities to fuck Melissa.
@@ -88,6 +106,8 @@
 ## Ilyana Paris: Owner of the Glitz Mall's petshop, Alpha and Omega. Aunt to Becky. Girlfriend to Sebastian Decker.
 - Starts serious, romantic and a little uptight, agreeing to sex with her boyfriend - Sebastian - but never too satisfied with it as she very rarely has an orgasm. Loving of her niece, she often feels her niece lacks respect. She fears her niece may become a slut. Her boyfriend - Sebastian - does not live with her, but visits.
 - Ends up totally submissive to the god-beast, loving the girlfriend he chose for her - Vanessa - but still totally dedicated to him. She is content with her daughter being a different kind of servant to the god-beast. -- Inspired by mcstories.com Tunor.
+## Jamal West: Step-brother to Alex. Black.
+???
 ## Jane Smith: Pharmaceuticals salesperson. Wife to John, adoptive mother to Jennie and Joshua.
 - Starts loyal, dutiful, motherly. Sexually frustrated, but resigned, having only vanilla sex, once a month with her husband and a mostly forgotten date night once a month. Having had sex with no other man than her husband her whole life and, sometimes, reading sexy, smutty books with a little deviant sex. She never masturbates, but does feel a tingling when she reads smutt.
 - Ends up sexually liberated woman with extensive sexual experience, with different partners, acting submissive and dominant, having sex with women and men, having had anal, having used a strapon, having trained girls to act like pets and men to act like slaves. She is immensely grateful to her god for all the sexual pleasures he allowed her to experiment, for her sexual awakening. She is very dutiful and leads the Core to her god's greatest satisfaction and glory.
@@ -143,6 +163,8 @@
 - She has all kinds of sex: masturbation, vaginal penetration, fellatio, rough vaginal penetration, deepthroat, anal, lesbianism - also different kinds of cheating and incest. All of this as she becomes more and more submissive, sexually. And, then, she loses control of her pleasure. She becomes a drone. She accepts that others, like Pennie and Brad can have as much sex and as much pleasure as they want, while her role is to prepare others and to serve. She becomes somewhat depressed, but she is expertly manipulated into accepting her role for the few glimpses of pleasure it gets her.
 
 - Ends up a Gatherer Drone in alien W's Core (his "hive").
+## Jerome Price: Business associate of Connor.
+???
 ## Joe, Joseph, Peterson: Diner owner. Principled. Lusty.
 - Starts sexually frustrated and lusty
 ??? (maybe he could end up a caretaker for the pets at Z's Core. Otherwise, he should end up regularly fucking Diana at W's Core.)
@@ -188,6 +210,7 @@
 - Starts moderately confident and moderately charming, not very moral. Spending a lot of money to make people like him with all kinds of gifts. Has debts. Has small affairs with a woman at work - Sam - and is thinking of hiring a maid and plans to have a cute, young maid who he imagines he can seduce.
 - Ends up blackmailed by his maid - Gina - and his office affair - Sam - who gain control of him and his life. Through the cult, the girls are able to instill some compulsions in him and make him dedicatedly give them cunnilingus until command to stop and to be unable to climax until given a command word. They sometimes enjoy each other, but, mostly, Gina lusts for Marcus big, sturdy, obedient cock.
 -- Inspired by Stocking Tops.txt
+## Maxwell Jones: Alex's boss, jerk and powerful. Manager of the sales department at the magazine publisher.
 ## Melissa Bronson: Nice. Last year student at the Finishing School. Daddy's girl and extremely loyal and loving to him. Part time job at the mall. Daughter to Forest.
 - Starts nice and dedicated, a serious student hampered for having to take a part-time job and not able to focus enough on her studies. She loves her father - Forest - and wishes he was happier. She wishes he would date, but he is always very reluctant. She enjoy sher time with her father very much. She is sexually well resolved and dated a guy - Evan - for a time. She masturbates from time to time, usually thinking of having a sexy and exotic lover taking her away on trips to exotic places.
 - Ends up corrupted enough to have sex with anything that moves, including her father. She has the distinction of not having been broken to harm and humiliate her father, staying very loyal to him. Y still enjoys getting her to watch her father being humiliated and getting Forest to watch her being thoroughly and embarrassedly fucked.
@@ -201,14 +224,17 @@
 - Ends up a Stud in alien X's Core.
 - Ends up a Lure in alien W's Core after being co-opted.
 ## Nathalie Wright: Well intentioned, proud, good student, careful with appearance. First year student at the Finishing School. Cheerleader. Sister to Adam.
+## Oliver Kay: Connor's brother. Wimpy uncle, motherly, helpful and poor.
 ## Pennie, Penelope, Corrigan: First year student at the Finishing School. Timid, insecure, horny. Sister to Evan.
 ## Peter McKay: Nice. Second year student at the Finishing School. Boyfriend to Trisha. Brother to Lucy, Sam and Stella.
+## Regina Kay-Dubois: Eldest daughter. Serious, studious, ambitious. Step-daughter to Alex. Daughter to Charlotte and Connor and sister to Faith.
 ## Rennie, Renata, Terrance: Good student. Bratty. Arrogant. Entitled. Last year student at the Finishing School. Daughter to Gerard and Mina.
+## Rick, Richard, Johnson: Nephew of Connor. Wimpy cousin, smart, weak and needy.
 ## Rob, Robert, Vahn: Cook at the diner. Hopelessly in love with Diana.
 ## Sam, Samantha, McKay: Serious, romantic, smart. Trailer park. Assistant at the Blackwood factory. Personal assistant to Mark. Sister to Lucy, Peter and Stella.
 ## Samuel Coleridge: Nice. Father to Lily.
 ## Sarah Carter: Happy Party Girl School Girl. Daughter to Ellen, sister to Mercy.
-## Scott Latam: Manager of the sales department at the magazine publisher publisher. Husband to Vera.
+## Scott Latam: Supervisor at the Blackwood factory. Husband to Vera.
 ## Sean Clark: Janitor at the Finishing School. Older, overweight, but with a big cock and a lot of sexual stamina.
 ## Sebastian Decker: Police. Uptight. Straightlaced. Professional. Serious. Dedicated. Boyfriend to Ilyana Paris.
 - Seduced by Kelly Paris.
@@ -217,6 +243,7 @@
 - Ends up exiled from Hornton.
 ## Stella McKay: First year student at the Finishing School. Nice. Nerdy. Cute. Repressed lesbian. Friends with Kelly. Sister to Lucy, Peter and Sam.
 ## Steve Green: First year student at the Finishing School. Good student. Aspiring writer. Boyfriend to Mercy. Brother to Kate.
+## Tina, Valentina, Sothton: Nanny and potential maid to Alex Kay.
 ## Trisha Manning: Nice. Second year student at the Finishing School. Girlfriend to Peter. Daughter to Carla.
 ## Tyron Williams: Irresistible Black Boy. Poolboy at mansions and at the Dreams Hotel, then lifeguard, then massagist. Son to Marcus and brother to Denise.
 - Starts loving the beach and to swim, not focused on any kind of work and punished by his father cutting off his expenses cards and forced to find a job as a pool boy at the Griffin's house. Lives with ???.
